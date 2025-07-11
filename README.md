@@ -17,7 +17,7 @@ This study introduces an end-to-end workflow to move from raw data to robust, ac
 ### Repository Structure
 
 -   **/data**: Contains the final processed datasets used for analysis. A guide to obtaining the raw public data is included.
--   **/notebooks**: Jupyter notebooks to reproduce the entire analysis, from data processing to figure generation.
+-   **/scripts**: Jupyter notebooks to reproduce the entire analysis, from data processing to figure generation.
 -   **/src**: Reusable Python functions for data processing, modeling, and plotting.
 -   **/figures**: High-resolution versions of all figures presented in the manuscript.
 
