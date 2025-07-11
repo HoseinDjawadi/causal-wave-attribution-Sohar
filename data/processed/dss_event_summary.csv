@@ -1,0 +1,35 @@
+# DSS Causal Attribution Summary
+Event_Timestamp,Peak_Hm0_Standardized
+2020-01-15 09:00:00,6.461925948759035
+
+# Driver Contributions
+Causal_Driver,Contribution_Percent,influence_at_peak,Operational Implication
+Hm0_buoy,46.67393058537838,4.450974593505223,General contributing factor.
+Hm0_buoy,10.157407367520642,-0.9686426997189793,General contributing factor.
+Effective_VHM0,8.335606527577752,0.7949099724488973,Secondary Driver: Offshore Energy. Significant underlying wave field will prolong the event.
+WindSpeed_buoy,7.845878964350226,0.7482079931142536,Primary Driver: Local Wind. Event is likely volatile with rapid changes. Risk is acute but may be shorter-lived.
+Effective_VHM0,5.396497276449386,0.5146271584617953,Secondary Driver: Offshore Energy. Significant underlying wave field will prolong the event.
+Hm0_buoy,3.5168074874871333,0.3353739567405939,General contributing factor.
+Hm0_buoy,2.4122995482570704,0.23004456377582164,General contributing factor.
+Hm0_buoy,2.297105468705469,0.21905928966293128,General contributing factor.
+Effective_VHM0,1.6707799477368719,0.15933089425822813,Secondary Driver: Offshore Energy. Significant underlying wave field will prolong the event.
+Effective_VHM0,1.6585844736658002,0.1581678950300659,Secondary Driver: Offshore Energy. Significant underlying wave field will prolong the event.
+Hm0_buoy,1.4704185448645628,0.14022379308807106,General contributing factor.
+Path_Mean_Slope_m_per_km,1.469242811153567,0.1401116713787842,Amplifying Factor: Bathymetry. Steep slope is concentrating wave energy via shoaling.
+WindSpeed_buoy,1.2176332810756296,-0.11611738566479028,Primary Driver: Local Wind. Event is likely volatile with rapid changes. Risk is acute but may be shorter-lived.
+WindSpeed_buoy,0.9672328885963671,0.0922384071611439,Primary Driver: Local Wind. Event is likely volatile with rapid changes. Risk is acute but may be shorter-lived.
+Path_Mean_Slope_m_per_km,0.6381559684808423,0.0608565845382598,Amplifying Factor: Bathymetry. Steep slope is concentrating wave energy via shoaling.
+Path_Mean_Slope_m_per_km,0.5120088584323037,0.048826794571394494,Amplifying Factor: Bathymetry. Steep slope is concentrating wave energy via shoaling.
+WindSpeed_buoy,0.5057105965757656,-0.04822617227207016,Primary Driver: Local Wind. Event is likely volatile with rapid changes. Risk is acute but may be shorter-lived.
+Path_Mean_Slope_m_per_km,0.48727413097180594,0.04646801222495031,Amplifying Factor: Bathymetry. Steep slope is concentrating wave energy via shoaling.
+Path_Rugosity_m,0.45348633251184095,0.04324590021017838,Dissipating Factor: Bottom Friction. Rough seabed may be dissipating some energy.
+Effective_VTPK,0.4389575603395434,0.04186039024770737,Underlying Condition: Swell Period. Long period swell is pre-conditioning the sea state for higher energy.
+Effective_VTPK,0.35756606341446173,0.034098638014772725,Underlying Condition: Swell Period. Long period swell is pre-conditioning the sea state for higher energy.
+Path_Rugosity_m,0.2957519559859832,0.02820384796315981,Dissipating Factor: Bottom Friction. Rough seabed may be dissipating some energy.
+Tp_buoy,0.23510618656024745,-0.022420474342552676,General contributing factor.
+Tp_buoy,0.21188582245553167,-0.020206106506251178,General contributing factor.
+Tp_buoy,0.20027564040317378,0.01909892258810043,General contributing factor.
+Effective_VTPK,0.19130480046493573,-0.018243434735530153,Underlying Condition: Swell Period. Long period swell is pre-conditioning the sea state for higher energy.
+Effective_WindDirection,0.1801300215123686,0.017177772242954588,General contributing factor.
+Shoaling_Factor_Proxy,0.12625126170642903,0.012039722200498254,General contributing factor.
+Shoaling_Factor_Proxy,0.07670962736593155,-0.0073152742484040014,General contributing factor.
